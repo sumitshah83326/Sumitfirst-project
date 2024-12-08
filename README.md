@@ -1,3 +1,4 @@
 # Sumitfirst-project
-This is my first Git Repository
-Author-Sumit Shah
+This is my first Git Repository.
+<br>
+Author-Sumit Shah.
